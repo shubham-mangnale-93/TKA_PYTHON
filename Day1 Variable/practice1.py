@@ -1,2 +1,2 @@
 name = "shubham patil"
-department = "faculty"
+department = "faculty" 
