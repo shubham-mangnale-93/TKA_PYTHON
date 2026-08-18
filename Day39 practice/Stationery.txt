@@ -1,0 +1,8 @@
+Product_ID,Product_Name,Category,MRP,CP
+124,Notebook,Stationery,100,60
+125,Pen,Stationery,50,25
+126,Pencil,Stationery,30,15
+127,Eraser,Stationery,20,10
+128,Marker,Stationery,100,55
+129,File,Stationery,80,40
+130,Stapler,Stationery,250,150

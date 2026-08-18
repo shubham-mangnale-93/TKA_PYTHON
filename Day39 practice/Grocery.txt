@@ -1,0 +1,9 @@
+Product_ID,Product_Name,Category,MRP,CP
+116,Rice,Grocery,1200,900
+117,Wheat,Grocery,800,600
+118,Sugar,Grocery,500,380
+119,Oil,Grocery,1800,1400
+120,Tea,Grocery,600,450
+121,Coffee,Grocery,900,650
+122,Biscuits,Grocery,300,220
+123,Soap,Grocery,500,350

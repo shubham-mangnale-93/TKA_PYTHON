@@ -1,0 +1,8 @@
+Product_ID,Product_Name,Category,MRP,CP
+109,T-Shirt,Clothing,1200,700
+110,Jeans,Clothing,2500,1600
+111,Shirt,Clothing,1800,1100
+112,Jacket,Clothing,3500,2300
+113,TrackPant,Clothing,1600,950
+114,Shoes,Clothing,4000,2700
+115,Cap,Clothing,800,450

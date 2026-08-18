@@ -1,0 +1,9 @@
+Product_ID,Product_Name,Category,MRP,CP
+101,Laptop,Electronics,80000,65000
+102,Mobile,Electronics,30000,24000
+103,Headphones,Electronics,3000,1800
+104,Keyboard,Electronics,2000,1200
+105,Mouse,Electronics,1000,600
+106,Monitor,Electronics,15000,11000
+107,Charger,Electronics,1500,900
+108,Smartwatch,Electronics,5000,3500
