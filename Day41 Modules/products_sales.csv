@@ -1,0 +1,51 @@
+pid,pname,category,mrp,cp
+101,Wireless Mouse,Electronics,899,550
+102,Bluetooth Speaker,Electronics,2499,1600
+103,USB Keyboard,Electronics,1299,800
+104,Power Bank,Electronics,1999,1250
+105,Earphones,Electronics,1499,900
+106,Smart Watch,Electronics,3999,2700
+107,Webcam,Electronics,2999,1900
+108,USB Cable,Electronics,499,250
+109,LED Monitor,Electronics,12999,9000
+110,Laptop Stand,Electronics,1799,1100
+111,Office Chair,Furniture,8999,6200
+112,Study Table,Furniture,7499,5000
+113,Bookshelf,Furniture,5999,3900
+114,Dining Chair,Furniture,3499,2200
+115,Computer Desk,Furniture,9999,6800
+116,Bedside Table,Furniture,2999,1800
+117,Sofa Cushion,Furniture,1299,750
+118,Wooden Stool,Furniture,1999,1200
+119,Wall Shelf,Furniture,2499,1500
+120,Folding Chair,Furniture,2299,1400
+121,Cotton T-Shirt,Fashion,799,420
+122,Denim Jeans,Fashion,1999,1100
+123,Casual Shirt,Fashion,1299,700
+124,Sports Shoes,Fashion,2999,1800
+125,Formal Shoes,Fashion,3499,2100
+126,Hoodie,Fashion,1799,950
+127,Track Pants,Fashion,1199,650
+128,Cotton Saree,Fashion,2499,1450
+129,Leather Belt,Fashion,999,550
+130,Backpack,Fashion,1599,900
+131,Rice 5kg,Grocery,399,320
+132,Wheat Flour 5kg,Grocery,299,235
+133,Sugar 2kg,Grocery,119,95
+134,Cooking Oil 1L,Grocery,169,140
+135,Toor Dal 1kg,Grocery,179,145
+136,Tea 500g,Grocery,299,240
+137,Coffee 200g,Grocery,249,190
+138,Biscuits Pack,Grocery,120,90
+139,Corn Flakes,Grocery,299,225
+140,Salt 1kg,Grocery,35,28
+141,Refrigerator,Electronics,28999,22000
+142,Mixer Grinder,Electronics,4999,3300
+143,Electric Kettle,Electronics,1999,1250
+144,Air Fryer,Electronics,6999,4600
+145,Table Lamp,Furniture,1499,850
+146,Plastic Cabinet,Furniture,3999,2700
+147,Curtain Set,Furniture,2499,1500
+148,Winter Jacket,Fashion,2999,1750
+149,Running Shorts,Fashion,899,480
+150,Dry Fruits 500g,Grocery,699,560
