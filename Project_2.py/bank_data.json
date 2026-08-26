@@ -1,0 +1,68 @@
+{
+    "102": {
+        "name": "kunal kale",
+        "account_type": "Saving",
+        "pin": "1234",
+        "balance": 3000.0,
+        "transactions": [
+            {
+                "type": "Initial Deposit",
+                "amount": 3000.0,
+                "date": "2026-08-26 10:30:29",
+                "balance_after_transaction": 3000.0
+            }
+        ]
+    },
+    "103": {
+        "name": "Rahul Bhagat",
+        "account_type": "Saving",
+        "pin": "7920",
+        "balance": 12000.0,
+        "transactions": [
+            {
+                "type": "Initial Deposit",
+                "amount": 4000.0,
+                "date": "2026-08-26 10:34:01",
+                "balance_after_transaction": 4000.0
+            },
+            {
+                "type": "Deposit",
+                "amount": 10000.0,
+                "date": "2026-08-26 10:35:16",
+                "balance_after_transaction": 14000.0
+            },
+            {
+                "type": "Withdraw",
+                "amount": 2000.0,
+                "date": "2026-08-26 10:35:53",
+                "balance_after_transaction": 12000.0
+            }
+        ]
+    },
+    "101": {
+        "name": "Anurag Gawli",
+        "account_type": "Saving",
+        "pin": "9325",
+        "balance": 20000.0,
+        "transactions": [
+            {
+                "type": "Initial Deposit",
+                "amount": 200000.0,
+                "date": "2026-08-26 14:32:52",
+                "balance_after_transaction": 200000.0
+            },
+            {
+                "type": "Deposit",
+                "amount": 20000.0,
+                "date": "2026-08-26 14:33:27",
+                "balance_after_transaction": 220000.0
+            },
+            {
+                "type": "Withdraw",
+                "amount": 200000.0,
+                "date": "2026-08-26 14:34:32",
+                "balance_after_transaction": 20000.0
+            }
+        ]
+    }
+}
