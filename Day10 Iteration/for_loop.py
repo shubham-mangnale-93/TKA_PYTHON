@@ -22,3 +22,25 @@ n = 4
 for i in range(0,n):
     print(i)
 
+
+# def count_digits(s):
+#     count = 0
+#     for ch in s:
+#         if ch.isdigit():
+#             count += 1
+#     return count
+
+# text = input("Enter a word/sentence: ")
+# print("Count of digits:", count_digits(text))
+
+
+def count_chars_in_range(s, start, end):
+    count = 0
+    for ch in s:
+        if start <= ch <= end:
+            count += 1
+    return count
+
+text = input("Enter string: ")
+result = count_chars_in_range(text, 'a', 'p')
+print("Count of characters between a-p:", result)
